@@ -15,8 +15,7 @@ import ProductCard from "@/components/product-card";
  * - Uses the same ProductCard component as the main store for consistency
  * 
  * Uses client-side rendering ("use client") to access the Cart Context
- * added a line
- * added another line
+ * deleted the old comments and added new one
  */
 export default function FavoritesPage() {
   // Get the favorites array from the Cart Context
